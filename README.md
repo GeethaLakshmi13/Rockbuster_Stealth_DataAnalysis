@@ -5,20 +5,27 @@ the Rockbuster Stealth management team is planning to use its existing movie lic
 # Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked a series of business questions and
 they expect data-driven answers that they can use for their 2020 company strategy. Here are
-the main questions they’d l ike to answer:
+the main questions they’d like to answer:
 ● Which movies contributed the most/least to revenue gain?
 ● What was the average rental duration for all videos?
 ● Which countries are Rockbuster customers based i n?
-● Where are customers with a high l ifetime value based?
+● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
+
+# Skills used
+Data cleaning, Relational Database, Summarizing and cleaning data in SQL, Filtering, Joining tables of data, Performing subqueries, Presenting SQL results
+
+# Tools used
+Microsoft Word, Microsoft Excel, Microsoft PowerPoint, PostgreSQL, Tableau, DbVisualizer
 
 # Data
 The data used consisted of the following tables:
 
 # Fact Tables
 Payment, Rental
-#Dimension Tables
+# Dimension Tables
 Store, Film category, Customer, Staff, Address, City, Country, film_actor, Actor, Inventory, Film, Category, Language
+
  
 # Source
 The data source was from Rockbuster Stealth
